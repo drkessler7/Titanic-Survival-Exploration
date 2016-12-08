@@ -5,6 +5,8 @@ In this project, I create decision functions that attempt to predict the surviva
 
 The project can be viewed using the .html file in a web browser, or interactively opening the .ipynb in a Jupyter Notebook.
 
+Starter files provided by Udacity are in the 'titanic_survival_exploration' folder. 
+
 ## Screenshots
 Below are a couple screenshots showing the distribution of survivors based on age.
 
