@@ -19,12 +19,14 @@ The installation documentation for the Jupyter platform can be found [here](http
 The documentation for advanced usage of Jupyter notebook can be found
 [here](https://jupyter-notebook.readthedocs.io/en/latest/).
 
-For a local installation, make sure you have
-[pip installed](https://pip.readthedocs.io/en/stable/installing/) and run:
 
-    $ pip install notebook
-    $ pip install numpy
-    $ pip install pandas
+This project requires **Python 2.7** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+
 
 ## Usage - Running Jupyter notebook
 
